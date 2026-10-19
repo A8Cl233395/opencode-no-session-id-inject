@@ -2,7 +2,7 @@ const HIDDEN_TOOLS = ["opencode_session_rename", "opencode_session_move", "openc
 
 const OPENCODE_NAMESPACE = {
   name: "opencode",
-  description: "Tools for managing OpenCode itself, such as reading MCP resources.",
+  description: "Tools for managing OpenCode itself.",
 }
 
 const stripSessionMoveHint = (event) => {
